@@ -19,6 +19,15 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white" />
   <img alt="Microsoft SQL" src="https://img.shields.io/badge/Microsoft%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white" />
 </p>
 
 ## About me
@@ -30,7 +39,7 @@ I enjoy the intersection of **architecture and hands-on delivery**: making trade
 
 💡 I believe in continuous learning and sharing knowledge, inspiring others in the tech community. Let’s build smarter solutions together!
 
-📍 From  Cartagena-Murcia, Spain ​🇪🇸​
+📍 From Cartagena-Murcia, Spain <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="16" alt="Spain" style="vertical-align: -2px;" />
 
 
 
