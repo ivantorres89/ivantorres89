@@ -21,12 +21,22 @@
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
-Microsoft Azure-focused engineer passionate about **cloud architecture**, **clean code**, and **production-ready distributed systems**.  
+## About me
+
+Software Architect with over 13 years of experience in software development, cloud solutions, and enterprise applications. I'm Microsoft stacked (NET+Azure) engineer passionate about **cloud architecture**, **clean code**, and **production-ready distributed systems**.
 I build systems that scale, recover gracefully, and remain observable under real-world load.
+
+I enjoy the intersection of **architecture and hands-on delivery**: making trade-offs explicit, keeping platforms maintainable, and helping teams ship reliably.
+
+💡 I believe in continuous learning and sharing knowledge, inspiring others in the tech community. Let’s build smarter solutions together!
+
+📍 From  Cartagena-Murcia, Spain ​🇪🇸​
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivantorresnet/">
-    <img alt="LinkedIn QR" src="assets/linkedin-qr.png" width="140" />
+    <img alt="LinkedIn QR" src="assets/linkedin-qr.png" width="120" />
   </a><br/>
   <sub>Scan to open my LinkedIn profile</sub>
 </p>
@@ -50,15 +60,16 @@ A hands-on implementation of an event-driven system with:
 - **Redis backplane** to stay resilient during **scale-out / scale-in**  
 - business-critical **OLTP transactions** against SQL databases  
 - persistence, async processing, and **FIFO queues** for backend workflows  
-- production-oriented resilience patterns (messaging, retries, decoupling)
+- production-oriented resilience patterns (messaging, retries, circuit breaker, decoupling)
+- observability, logging and telemetry to make meaning product oriented for what we develop.
 
 ---
 
 ## What I optimize for
 - **Design → Build → Operate**: architecture decisions proven by running code  
-- **Reliability first**: resiliency, performance, and operational excellence  
+- **Reliability first**: resiliency, performance, and operational excellence. HA & DR.  
 - **Clear trade-offs**: cost vs complexity vs maintainability  
-- **Team impact**: mentoring, code reviews, and technical ownership
+- **Team impact**: technical leadership and ownership, mentoring, code reviews.
 
 ---
 
@@ -78,37 +89,42 @@ A hands-on implementation of an event-driven system with:
 
 ---
 
-##  Microsoft Certifications (online verifiable)
+## Microsoft Certifications (verifiable)
 Click any badge to view the credential on Microsoft Learn.
-
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/ivantorrestomas/9D19546A9DC0EC0A?sharingId">
-    <img alt="Microsoft Certified Expert" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="170" />
+    <img alt="Microsoft Certified Expert" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="150" />
   </a><br/>
   <sub><b>AZ-305</b> — Azure Solutions Architect Expert</sub>
 </p>
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-gb/users/ivantorrestomas/credentials/84fc50c41cf146">
-    <img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="140" />
+    <img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/ivantorrestomas/9D2AD9FB6EB38D42?sharingId">
-    <img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="140" />
+    <img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" />
   </a><br/>
   <sub><b>AZ-204</b> — Azure Developer Associate · <b>AZ-104</b> — Azure Administrator Associate</sub>
 </p>
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ivantorrestomas/AA926E563978D6F1?sharingId">
-    <img alt="AZ-900 Azure Fundamentals (badge image)" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="135" />
+    <img alt="AZ-900 Azure Fundamentals (badge image)" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="110" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ivantorrestomas/2A352CC2AF594485?sharingId">
-    <img alt="AI-900 Azure AI Fundamentals (badge image)" src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="135" />
+    <img alt="AI-900 Azure AI Fundamentals (badge image)" src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="110" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ivantorrestomas/AA492F349AF339D5?sharingId">
-    <img alt="DP-900 Azure Data Fundamentals (badge image)" src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="135" />
-  </a>
+    <img alt="DP-900 Azure Data Fundamentals (badge image)" src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="110" />
+  </a><br/>
+  <sub><b>AZ-900</b> — Azure Fundamentals · <b>AI-900</b> — Azure AI Fundamentals · <b>DP-900</b> — Azure Data Fundamentals</sub>
 </p>
 
-<!-- Tip: If you prefer per-cert images for AZ-305/AZ-204/AZ-104, download them from your Microsoft Learn Certification Dashboard and replace the SVGs above with files under /assets/certifications/. -->
+---
+
+## Fun fact 😊
+At 9 years old, I was the kid in the neighborhood people brought their **Pentium desktops** to.
+I used to boot **Norton Commander** floppy, formatted the drive, and reinstalled **Windows 95**. 
+
