@@ -120,7 +120,7 @@ Click any badge to view the credential on Microsoft Learn.
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ivantorrestomas/AA926E563978D6F1?sharingId">
-    <img alt="AZ-900 Azure Fundamentals (badge image)" src="/assets/certs_badges/az-900.webp" width="110" />
+    <img alt="AZ-900 Azure Fundamentals (badge image)" src="/assets/certs_badges/az-900.png" width="110" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ivantorrestomas/2A352CC2AF594485?sharingId">
     <img alt="AI-900 Azure AI Fundamentals (badge image)" src="/assets/certs_badges/ai-900.png" width="110" />
