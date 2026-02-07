@@ -115,7 +115,7 @@ Click any badge to view the credential on Microsoft Learn.
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/ivantorrestomas/9D2AD9FB6EB38D42?sharingId">
     <img alt="Microsoft Certified Associate" src="/assets/certs_badges/az-104.png" width="120" />
   </a><br/>
-  <sub><b>AZ-204</b> — Azure Developer Associate · <b>AZ-104</b> — Azure Administrator Associate</sub>
+  <sub><b>AZ-204</b> — Azure Developer Associate || <b>AZ-104</b> — Azure Administrator Associate</sub>
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ Click any badge to view the credential on Microsoft Learn.
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ivantorrestomas/AA492F349AF339D5?sharingId">
     <img alt="DP-900 Azure Data Fundamentals (badge image)" src="/assets/certs_badges/dp-900.png" width="110" />
   </a><br/>
-  <sub><b>AZ-900</b> — Azure Fundamentals · <b>AI-900</b> — Azure AI Fundamentals · <b>DP-900</b> — Azure Data Fundamentals</sub>
+  <sub><b>AZ-900</b> — Azure Fundamentals || <b>AI-900</b> — Azure AI Fundamentals || <b>DP-900</b> — Azure Data Fundamentals</sub>
 </p>
 
 ---
