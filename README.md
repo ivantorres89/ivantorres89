@@ -57,9 +57,10 @@ I enjoy the intersection of **architecture and hands-on delivery**: making trade
 ### 1) Azure Architecture Solutions — case studies & reference designs
 **Repo:** https://github.com/ivantorres89/azure-architecture-solutions  
 A curated collection of Azure architecture designs and diagrams based on real-world scenarios, with an emphasis on:
-- scalability, reliability, and high availability  
+- scalability, reliability, high availability and disaster recovery.
 - security-minded design  
 - pragmatic trade-offs (why this, not that)
+- ADRs
 
 ### 2) Event-Driven Microservices on Kubernetes (AKS/K8S-ready)
 **Repo:** https://github.com/ivantorres89/event-driven-microservices-orders  
