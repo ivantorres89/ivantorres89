@@ -1,4 +1,4 @@
-# Iván Torres — Software Architect · Tech Lead · Lead/Senior Backend Engineer (.NET)
+# Iván Torres — Platform Solutions Architect · Tech Lead · Lead/Senior Backend Engineer (.NET)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivantorresnet/">
